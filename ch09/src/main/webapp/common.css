@@ -1,0 +1,7 @@
+@charset "UTF-8";
+caption { font-size:20px; line-height: 160%; font-weight:bold;}
+body{ background-color :#d6ddf8;}
+table { width: 90%; background-color: #800080; }
+th { text-align: center; color: white; background-color:#5f9ea0;}
+td { background-color: #f0ffff; }
+th,td{padding: 15px;}
